@@ -1,0 +1,10 @@
+1. add 2 binary numbers
+
+int("101", 2)  # → 5
+bin(...)
+
+Converts an integer back into a binary string.
+
+Example:
+
+bin(5)  # → '0b101'
